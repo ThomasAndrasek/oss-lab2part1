@@ -1,0 +1,4 @@
+- Thomas Andrasek
+- ![Thomas Andrasek](./thomasandrasek.jpg)
+- Fall 2022
+- Graphics Library or Compiler/Language
